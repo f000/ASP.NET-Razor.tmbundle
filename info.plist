@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>yhxnf.ibeyvprx@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Lukas Vorlicek</string>
+	<key>description</key>
+	<string>TextMate 2 support for ASP.NET Razor</string>
+	<key>name</key>
+	<string>ASP.NET Razor</string>
+	<key>uuid</key>
+	<string>6B8C2107-B9E2-45B1-B513-6CBE660BED42</string>
+</dict>
+</plist>
